@@ -1,0 +1,26 @@
+
+-Ferramenta para controle de versão utilizada (GitBash) - (Repositório no github)
+
+
+Teste Não funcional
+-Java
+-Jmeter
+-Browser
+
+Teste Funcional
+-Browser (Firefox ou Chrome versão atualizada)
+-Extensão (Katalon)
+
+Plano de teste
+-Word
+
+Casos de teste
+-Excel
+
+Teste Unitario (Será utilizado)
+-Eclipse (Ferramenta)
+-Código Java
+
+Teste Integração
+- (Ferramenta)
+- (Código)
