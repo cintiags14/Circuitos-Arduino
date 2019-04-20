@@ -19,7 +19,11 @@ Casos de teste
 -Excel
 
 Teste Unitario 
-- Projeto Funcionando (Código(Angular - FrontEnd)(Java - BackEnd)/PostgreSQL/Node.js/JDK/Visual Studio Code) 
+
+- O projeto nextstar é feito utilizando o framework angular 5 para o desenvolvimento do front, e utilizando o framework Spring boot para desenvolver a api(back end).
+- java e typescript/html/css são as linguagens utilizadas
+
+- Projeto Funcionando com as ferramentas (/PostgreSQL/Node.js/JDK/Visual Studio Code) 
 - IntelliJ IDEA 2019.1 x64
 - Eclipse Jee 2019-03
 - Maquina - Intel(R) Core(TM) i5-7200U CPU 2.71GHz 4GB SSD 240GB 
