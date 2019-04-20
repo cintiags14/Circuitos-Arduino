@@ -1,26 +1,33 @@
 
--Ferramenta para controle de versão utilizada (GitBash) - (Repositório no github)
+-Ferramenta para controle de versão utilizada (Git) 
+- (Repositório no github - https://github.com/cintiags14/Verificao-validacao)
 
 
 Teste Não funcional
--Java
--Jmeter
--Browser
+-Java (Java 8 Versão: 8.0)
+-Jmeter (Versão: 5.1.1)
+-Browser (Firefox versão: 66.0.3 (64-bits))
 
 Teste Funcional
--Browser (Firefox ou Chrome versão atualizada)
--Extensão (Katalon)
+-Browser (Firefox versão: 66.0.3 (64-bits))
+-Extensão (Katalon/ Versão: 3.7.0)
 
 Plano de teste
--Word
+-Word 
 
 Casos de teste
 -Excel
 
-Teste Unitario (Será utilizado)
--Eclipse (Ferramenta)
--Código Java
+Teste Unitario 
+- Projeto Funcionando (Código(Angular - FrontEnd)(Java - BackEnd)/PostgreSQL/Node.js/JDK/Visual Studio Code) 
+- IntelliJ IDEA 2019.1 x64
+- Eclipse Jee 2019-03
+- Maquina - Intel(R) Core(TM) i5-7200U CPU 2.71GHz 4GB SSD 240GB 
+- Performance de referência - até 500MB/s para leitura e 350MB/s para gravação 
+
+
 
 Teste Integração
-- (Ferramenta)
-- (Código)
+- Projeto Funcionando (Código: (Angular - FrontEnd)(Java - BackEnd)/Banco de dados: PostgreSQL/ Ferramentas: Node.js/JDK/Visual Studio Code/IntelliJ IDEA 2019.1 x64/Eclipse Jee 2019-03) 
+- Maquina - Intel(R) Core(TM) i5-7200U CPU 2.71GHz 4GB SSD 240GB 
+- Performance de referência - até 500MB/s para leitura e 350MB/s para gravação
